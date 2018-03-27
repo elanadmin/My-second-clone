@@ -27,6 +27,7 @@
         </configuration>
       </plugin>
     </plugins>
+    <finalName>JenkinsWar</finalName>
   </build>
   <dependencies>
     <dependency>
@@ -36,7 +37,4 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <build>
-    <finalName>JenkinsWar</finalName>
-  </build>
 </project>
